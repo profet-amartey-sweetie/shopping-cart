@@ -1,0 +1,35 @@
+.card-img {
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+
+
+H2{
+  font-family: 'Franklin Gothic', 'Arial';
+  text-align: center;
+  font-size: 300%;
+  color: rgb(244, 245, 247);
+  padding-top: 40px;
+}
+
+img{
+  height: 150px;
+  width: 80px;
+  background-position: left;
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding-top: 0;
+  padding-bottom: 110px;
+}
+#page-header {
+  height: 150px;
+  width: 100%;
+  background-color: #19185b;
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* background-image: url("/images/hero.jpg"); */
+
+}
+
